@@ -1,6 +1,6 @@
 class PersonalChef
 	def make_toast(color)
-		puts "Making your toast #{color}"
+		puts "Making your bread toast #{color}"
 		return self
 	end
 
